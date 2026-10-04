@@ -1,0 +1,51 @@
+{
+  "schema": 2,
+  "version": "2.0.1",
+  "build": 45,
+  "assets": [
+    {
+      "header": {
+        "build": 45,
+        "bundleID": "com.glassalarm.app",
+        "bytes": 3835672,
+        "chunkBytes": 1048576,
+        "delta": {
+          "baseBytes": 72583435,
+          "baseSHA256": "f460cc5db507a5993e4ace2f6bd498a7b0344920af15560ba9336eec41d0e348",
+          "targetBytes": 72724905,
+          "targetSHA256": "6973df75fec7fb574e3f5f331e4cbaaa5bd4351291d21c0c9735fa51242cf856"
+        },
+        "keyID": "4102b65fb03342a55ebda610b6d1a150f78eaa86df2f76bae1db0156dff8b207",
+        "kind": "light",
+        "schema": 1,
+        "sha256": "ce71aeb8cacad1adea7277d23b5567ddecddb953469bcc88974d797e1d4c0f51",
+        "version": "2.0.1"
+      },
+      "downloadURL": "https://cdn.jsdelivr.net/gh/RichieChoo/GlassAlarm-Updates@v2.0.1-build45/patches/f460cc5db507a5993e4ace2f6bd498a7b0344920af15560ba9336eec41d0e348.gaup",
+      "encryptedBytes": 3823939,
+      "encryptedSHA256": "d750334b32ca8e08faa79469decb47866229e3c8a1f40db41f775106ad5741b7"
+    },
+    {
+      "header": {
+        "build": 45,
+        "bundleID": "com.glassalarm.app",
+        "bytes": 8158474,
+        "chunkBytes": 1048576,
+        "delta": {
+          "baseBytes": 72686996,
+          "baseSHA256": "e8bb45edc2cd9c34febc087c5da5afb843ef0412dd2090d0f12e7a17446c1613",
+          "targetBytes": 72724905,
+          "targetSHA256": "6973df75fec7fb574e3f5f331e4cbaaa5bd4351291d21c0c9735fa51242cf856"
+        },
+        "keyID": "4102b65fb03342a55ebda610b6d1a150f78eaa86df2f76bae1db0156dff8b207",
+        "kind": "light",
+        "schema": 1,
+        "sha256": "256032f1760a9993b740f9098af40b267e76248d8edf05412a95c3c80ac23e4b",
+        "version": "2.0.1"
+      },
+      "downloadURL": "https://cdn.jsdelivr.net/gh/RichieChoo/GlassAlarm-Updates@v2.0.1-build45/patches/e8bb45edc2cd9c34febc087c5da5afb843ef0412dd2090d0f12e7a17446c1613.gaup",
+      "encryptedBytes": 8192016,
+      "encryptedSHA256": "8e64c2eb3ab2df815d94b28b9af6e825d4a4ce635854a84342a185e9131a9415"
+    }
+  ]
+}
