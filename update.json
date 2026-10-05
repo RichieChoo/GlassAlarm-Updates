@@ -1,51 +1,95 @@
 {
   "schema": 2,
   "version": "2.0.1",
-  "build": 54,
+  "build": 55,
   "assets": [
     {
       "header": {
-        "build": 54,
+        "build": 55,
         "bundleID": "com.glassalarm.app",
-        "bytes": 3253186,
+        "bytes": 3245877,
+        "chunkBytes": 1048576,
+        "delta": {
+          "baseBytes": 73075321,
+          "baseSHA256": "c1a7dbd2fdd852f986614423b579919d96b840928cdcef9990e771368f2feb3a",
+          "targetBytes": 73068012,
+          "targetSHA256": "68f7542e306b94b6e67116ea4376eba0ae36c22678795a246a33b555f774e7c0"
+        },
+        "keyID": "4102b65fb03342a55ebda610b6d1a150f78eaa86df2f76bae1db0156dff8b207",
+        "kind": "light",
+        "schema": 1,
+        "sha256": "4cf90c646d798ea5807dc620824e6e74e2d0bf5277f128adb6888b8928b09a81",
+        "version": "2.0.1"
+      },
+      "downloadURL": "https://cdn.jsdelivr.net/gh/RichieChoo/GlassAlarm-Updates@v2.0.1-build55/patches/c1a7dbd2fdd852f986614423b579919d96b840928cdcef9990e771368f2feb3a.gaup",
+      "encryptedBytes": 3230010,
+      "encryptedSHA256": "d723f95a32f3b603f09a3ee2264b2381ca4c04c1e4684e8976d62fb3aa2522d1"
+    },
+    {
+      "header": {
+        "build": 55,
+        "bundleID": "com.glassalarm.app",
+        "bytes": 3245877,
         "chunkBytes": 1048576,
         "delta": {
           "baseBytes": 73070517,
           "baseSHA256": "58a679b9bea0834b22c84328afcbe453e60da394695e1507328e4833699366c0",
-          "targetBytes": 73075321,
-          "targetSHA256": "c1a7dbd2fdd852f986614423b579919d96b840928cdcef9990e771368f2feb3a"
+          "targetBytes": 73068012,
+          "targetSHA256": "68f7542e306b94b6e67116ea4376eba0ae36c22678795a246a33b555f774e7c0"
         },
         "keyID": "4102b65fb03342a55ebda610b6d1a150f78eaa86df2f76bae1db0156dff8b207",
         "kind": "light",
         "schema": 1,
-        "sha256": "b285360d2ef342255df8f1b0b3663a61f5239dc35a38179b1ac56b9c462fa559",
+        "sha256": "6f11bfbe3af0125b1efde0b4a172989b3e3d2abcd8c6e5ab09b73c39f4728434",
         "version": "2.0.1"
       },
-      "downloadURL": "https://cdn.jsdelivr.net/gh/RichieChoo/GlassAlarm-Updates@v2.0.1-build54/patches/58a679b9bea0834b22c84328afcbe453e60da394695e1507328e4833699366c0.gaup",
-      "encryptedBytes": 3237771,
-      "encryptedSHA256": "a1c5db326dd6f8eb164bba67a8674bd5d9e347271f39471f6563d9973f07e06b"
+      "downloadURL": "https://cdn.jsdelivr.net/gh/RichieChoo/GlassAlarm-Updates@v2.0.1-build55/patches/58a679b9bea0834b22c84328afcbe453e60da394695e1507328e4833699366c0.gaup",
+      "encryptedBytes": 3230015,
+      "encryptedSHA256": "8ee7ef9fd530459088f31e6c8b0a890fa10f5674241c23a54e20ae2a73d3e601"
     },
     {
       "header": {
-        "build": 54,
+        "build": 55,
         "bundleID": "com.glassalarm.app",
-        "bytes": 12775655,
+        "bytes": 12768346,
         "chunkBytes": 1048576,
         "delta": {
           "baseBytes": 72724905,
           "baseSHA256": "6973df75fec7fb574e3f5f331e4cbaaa5bd4351291d21c0c9735fa51242cf856",
-          "targetBytes": 73075321,
-          "targetSHA256": "c1a7dbd2fdd852f986614423b579919d96b840928cdcef9990e771368f2feb3a"
+          "targetBytes": 73068012,
+          "targetSHA256": "68f7542e306b94b6e67116ea4376eba0ae36c22678795a246a33b555f774e7c0"
         },
         "keyID": "4102b65fb03342a55ebda610b6d1a150f78eaa86df2f76bae1db0156dff8b207",
         "kind": "light",
         "schema": 1,
-        "sha256": "1fb7a4fb8373e70c05d40208ff20b5e1900408044c3b25427aed301f2c813db0",
+        "sha256": "3a65f9e46fb159fb8decf7992fbff3964a08a219b8484897555c2e5fe0ae03eb",
         "version": "2.0.1"
       },
-      "downloadURL": "https://cdn.jsdelivr.net/gh/RichieChoo/GlassAlarm-Updates@v2.0.1-build54/patches/6973df75fec7fb574e3f5f331e4cbaaa5bd4351291d21c0c9735fa51242cf856.gaup",
-      "encryptedBytes": 12864631,
-      "encryptedSHA256": "c3014bf2da489233d5e4a23761bb3d193d6655853fd9e49eaf0206def03bdc0d"
+      "downloadURL": "https://cdn.jsdelivr.net/gh/RichieChoo/GlassAlarm-Updates@v2.0.1-build55/patches/6973df75fec7fb574e3f5f331e4cbaaa5bd4351291d21c0c9735fa51242cf856.gaup",
+      "encryptedBytes": 12855841,
+      "encryptedSHA256": "d108001055b11ed73b9bdcba433d7d32e3836c806b67259cceede01498b41457"
+    },
+    {
+      "header": {
+        "build": 55,
+        "bundleID": "com.glassalarm.app",
+        "bytes": 20099,
+        "chunkBytes": 1048576,
+        "delta": {
+          "baseBytes": 73068012,
+          "baseSHA256": "68f7542e306b94b6e67116ea4376eba0ae36c22678795a246a33b555f774e7c0",
+          "targetBytes": 73068012,
+          "targetSHA256": "68f7542e306b94b6e67116ea4376eba0ae36c22678795a246a33b555f774e7c0"
+        },
+        "keyID": "4102b65fb03342a55ebda610b6d1a150f78eaa86df2f76bae1db0156dff8b207",
+        "kind": "light",
+        "schema": 1,
+        "sha256": "cf033d5b350c886157bef747fafd3ea4d23118597d2489bb30d359fea9b6ab1f",
+        "version": "2.0.1"
+      },
+      "downloadURL": "https://cdn.jsdelivr.net/gh/RichieChoo/GlassAlarm-Updates@v2.0.1-build55/patches/68f7542e306b94b6e67116ea4376eba0ae36c22678795a246a33b555f774e7c0.gaup",
+      "encryptedBytes": 5462,
+      "encryptedSHA256": "019bdf74d8b94a823f694cd97052aee187edccc017cf3b861b93c8da151c2bf8"
     }
   ]
 }
